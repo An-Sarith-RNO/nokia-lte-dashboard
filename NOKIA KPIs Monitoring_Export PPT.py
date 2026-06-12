@@ -29,7 +29,7 @@ def load_data(path):
 
     return df
 
-DATA_PATH = "4G_Main_KPIs_Report_SRAN21B-Sarith-2025_10_13-Site KCH2567RBR & 2070_LB.xlsx"
+DATA_PATH = "4G_Main_KPIs_Report_SRAN21B-Sarith-2026_06_12-10_14_06__579.xlsx.xlsx"
 df = load_data(DATA_PATH)
 
 st.title("📊 LTE KPI Dashboard")
